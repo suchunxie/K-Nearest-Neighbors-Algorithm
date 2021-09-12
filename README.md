@@ -16,7 +16,7 @@ for Multicalss classification: Iris Dataset
 
     (K value usually take sqart(N), N is the feature number of your dataset) 
     
-    -Details about theory please refer to Wikipedia: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm  :)
+    -Details about theory can refer to Wikipedia: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm  
     
 6. Calculate accuracy
 
