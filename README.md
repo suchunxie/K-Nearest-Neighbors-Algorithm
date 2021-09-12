@@ -13,7 +13,9 @@ for Multicalss classification: Iris Dataset
 2. Calculate distance between test data and All sample data - Euclidean Distance
 3. Sort distances by ascending
 4. Takes the first k datas which the distance is small, object is classified by a plurality vote of its K neighbors(K typically small and is an odd)
+
     (K value usually take sqart(N), N is the feature number of your dataset)
+    
 6. calculate the accuracy
 
 
